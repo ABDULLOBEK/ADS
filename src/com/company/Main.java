@@ -4,6 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
 
+        /**
+
+         * Abdullo Navruzov - 2110096@newuzbekistanuniversity.uz
+         * Dilafruz Norboeva - 2110167@newuzbekistanuniversity.uz
+
+        **/
+
 	// BloomFilter implementation
         int filterSize = 1000;
         int numHashFunctions = 3;
